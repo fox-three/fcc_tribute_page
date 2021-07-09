@@ -1,0 +1,46 @@
+html {
+  font-size: 16px;
+}
+
+body {
+    background-color: #bfbfbf;
+}
+
+.title-container {
+  display: block;
+  text-align: center;
+  padding: 0.75rem;
+  max-width: 100%;
+  height: auto;
+  font-size: 1.3rem;
+}
+
+#img-div {
+  background-color: white;
+}
+
+img {
+  display: block;
+  margin: auto;
+  height: auto;
+  max-width: 100%;
+}
+
+#img-caption {
+  text-align: center;
+  padding: 1rem 1rem;
+}
+
+#tribute-info {
+  display: block;
+  margin: auto;
+  max-width: 60%;
+  height: auto;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+.wiki-link {
+  font-size: 1.5rem;
+  text-align: center;
+}
